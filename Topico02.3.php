@@ -94,7 +94,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 8:</strong> Utilidade e usabilidade</p>
                     <a href="imagens/figura08.png" data-toggle="lightbox" data-footer="Utilidade e usabilidade">
-                        <img class="img-fluid wow fadeInDown" src="imagens/figura08.png" alt="Utilidade e usabilidade">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura08.png" alt="Utilidade e usabilidade">
                     </a>
                     <p class="FonteFigura">Fonte: autor com base em [8].</p>
                 </div>

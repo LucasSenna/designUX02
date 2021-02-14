@@ -34,14 +34,15 @@ include('layout/header.php');
                 <p class="Texto">
                     <strong>A forma de aplicação contextual é considerada pelos especialistas como a forma mais apropriada</strong> [8]. Esse formato acontece quando a informação de ajuda para uma atividade aparece no momento desta atividade e não fica em um local separado, como em uma tela de ajuda. Veja na <strong>Figura 31</strong> um exemplo prático de ajuda contextual. No exemplo vemos um modal de ajuda que explica sobre um campo específico da adição do cartão de crédito. Essa informação é contextual pois se encontra no local onde o próprio cartão está adicionado, como pode ser visto na tela de fundo. Desta forma não é necessário sair desta tela e parar a atividade para tirar uma dúvida.
                 </p>
-
+                
                 <div class="text-center">
-                    <p class="TituloFigura"><strong>Figura 31:</strong> Exemplo de ajuda contextual no iFood
-                    </p>
-                    <a href="imagens/figura31.jpg" data-toggle="lightbox" data-footer="Exemplo de ajuda contextual no iFood">
+                    <p class="TituloFigura"><strong>Figura 31:</strong> Exemplo de ajuda contextual no iFoodn</p>
+                    <a href="imagens/figura31.jpg" data-toggle="lightbox" data-footer="10 heurísticas de Nielsen">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura09.png" alt="10 heurísticas de Nielsen" width="860" height="860">
                     </a>
                     <p class="FonteFigura">Fonte: Ifood.</p>
                 </div>
+                <hr>
 
                 <!-- Atividade -->
                 <div>
