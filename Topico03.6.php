@@ -31,7 +31,7 @@ include('layout/header.php');
                     <p class="TituloFigura"><strong>Figura 25:</strong> Torneira com abertura diferenciada
                     </p>
                     <a href="imagens/figura25.png" data-toggle="lightbox" data-footer="Torneira com abertura diferenciada">
-                        <img class="img-fluid" src="imagens/figura25.png" alt="Torneira com abertura diferenciada" width="600" height="600">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura25.png" alt="Torneira com abertura diferenciada" width="600" height="600">
                     </a>
                     <p class="FonteFigura">Fonte: Bem Legaus.</p>
                 </div>
@@ -57,7 +57,7 @@ include('layout/header.php');
                     <p class="TituloFigura"><strong>Figura 26:</strong> Campo <em>autocomplete</em>
                     </p>
                     <a href="imagens/figura26.png" data-toggle="lightbox" data-footer="Campo <em>autocomplete</em>">
-                        <img class="img-fluid" src="imagens/figura26.png" alt="Campo <em>autocomplete</em>">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura26.png" alt="Campo <em>autocomplete</em>">
                     </a>
                     <p class="FonteFigura">Fonte: JQueryUi.</p>
                 </div>

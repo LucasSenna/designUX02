@@ -30,7 +30,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 4:</strong> ABNT NBR ISO 9241-11</p>
                     <a href="imagens/figura04.png" data-toggle="lightbox" data-footer="ABNT NBR ISO 9241-11">
-                        <img class="img-fluid" src="imagens/figura04.png" alt="ABNT NBR ISO 9241-11" height="800" width="800">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura04.png" alt="ABNT NBR ISO 9241-11" height="800" width="800">
                     </a>
                     <p class="FonteFigura">Fonte: NBR 9241-11.</p>
                 </div>

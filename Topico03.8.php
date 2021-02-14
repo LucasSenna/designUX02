@@ -40,7 +40,7 @@ include('layout/header.php');
                     <p class="TituloFigura"><strong>Figura 28:</strong> Evolução da interface do buscador Google
                     </p>
                     <a href="imagens/figura28.png" data-toggle="lightbox" data-footer="Evolução da interface do buscador Google">
-                        <img class="img-fluid" src="imagens/figura28.png" alt="Evolução da interface do buscador Google">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura28.png" alt="Evolução da interface do buscador Google">
                     </a>
                     <p class="FonteFigura">Fonte: Hackernoon.</p>
                 </div>

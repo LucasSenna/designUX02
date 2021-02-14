@@ -45,7 +45,7 @@ include('layout/header.php');
                     <p class="TituloFigura"><strong>Figura 29:</strong> Interface antiga de detecção do antivírus AVG
                     </p>
                     <a href="imagens/figura29.png" data-toggle="lightbox" data-footer="Interface antiga de detecção do antivírus AVG">
-                        <img class="img-fluid" src="imagens/figura29.png" alt="Interface antiga de detecção do antivírus AVG">
+                        <img class="img-fluid wow fadeInDown" src="imagens/figura29.png" alt="Interface antiga de detecção do antivírus AVG">
                     </a>
                     <p class="FonteFigura">Fonte: Dribbble.</p>
                 </div>
@@ -68,7 +68,7 @@ include('layout/header.php');
                     <p class="TituloFigura"><strong>Figura 30:</strong> Erro 404 do Dribbble
                     </p>
                     <a href="imagens/figura30.jpg" data-toggle="lightbox" data-footer="Erro 404 do Dribbble">
-                        <img class="img-fluid" src="imagens/figura30.jpg" alt="Erro 404 do Dribbble">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura30.jpg" alt="Erro 404 do Dribbble">
                     </a>
                     <p class="FonteFigura">Fonte: Dribbble.</p>
                 </div>

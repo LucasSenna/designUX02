@@ -41,7 +41,7 @@ include('layout/header.php');
                 <div class="text-center">7
                     <p class="TituloFigura"><strong>Figura 3:</strong> Definições de usabilidade</p>
                     <a href="imagens/figura03.png" data-toggle="lightbox" data-footer="Definições de usabilidade">
-                        <img class="img-fluid" src="imagens/figura03.png" alt="Definições de usabilidade">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura03.png" alt="Definições de usabilidade">
                     </a>
                     <p class="FonteFigura">Fonte: autor</p>
                 </div>

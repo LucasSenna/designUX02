@@ -76,7 +76,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 6:</strong> Qualidade de uso em ISO/IEC 25010</p>
                     <a href="imagens/figura06.png" data-toggle="lightbox" data-footer="Qualidade de uso em ISO/IEC 25010">
-                        <img class="img-fluid" src="imagens/figura06.png" alt="Qualidade de uso em ISO/IEC 25010" width="700" height="700">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura06.png" alt="Qualidade de uso em ISO/IEC 25010" width="700" height="700">
                     </a>
                     <p class="FonteFigura">Fonte: Adaptado de ISO/IEC 25010.</p>
                 </div>
@@ -90,8 +90,8 @@ include('layout/header.php');
 
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 7:</strong> Características de qualidade de produto em ISO/IEC 25010</p>
-                    <a href="imagens/figura07.png" data-toggle="lightbox" data-footer="Características de qualidade de produto em ISO/IEC 25010">
-                        <img class="img-fluid" src="imagens/figura07.png" alt="Características de qualidade de produto em ISO/IEC 25010">
+                    <a href="imagens/figura07.png wow fadeInDown" data-toggle="lightbox" data-footer="Características de qualidade de produto em ISO/IEC 25010">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura07.png" alt="Características de qualidade de produto em ISO/IEC 25010">
                     </a>
                     <p class="FonteFigura">Fonte: ISO/IEC 25010 [3].</p>
                 </div>

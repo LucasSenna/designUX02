@@ -31,7 +31,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 20:</strong> Atalho para desfazer uma ação</p>
                     <a href="imagens/figura20.png" data-toggle="lightbox" data-footer="Atalho para desfazer uma ação">
-                        <img class="img-fluid" src="imagens/figura20.png" alt="Atalho para desfazer uma ação">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura20.png" alt="Atalho para desfazer uma ação">
                     </a>
                     <p class="FonteFigura">Fonte: autor em Google Docs.</p>
                 </div>
@@ -48,7 +48,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 21:</strong> Apagar mensagem no Whatsapp</p>
                     <a href="imagens/figura21.png" data-toggle="lightbox" data-footer="Apagar mensagem no Whatsapp">
-                        <img class="img-fluid" src="imagens/figura21.png" alt="Apagar mensagem no Whatsapp" width="500" height="500">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura21.png" alt="Apagar mensagem no Whatsapp" width="500" height="500">
                     </a>
                     <p class="FonteFigura">Fonte: autor em aplicativo Whatsapp.</p>
                 </div>

@@ -34,7 +34,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 22:</strong> Material Design</p>
                     <a href="imagens/figura22.png" data-toggle="lightbox" data-footer="Material Design">
-                        <img class="img-fluid" src="imagens/figura22.png" alt="Material Design" width="600" height="600">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura22.png" alt="Material Design" width="600" height="600">
                     </a>
                     <p class="FonteFigura">Fonte: Material Design.</p>
                 </div>

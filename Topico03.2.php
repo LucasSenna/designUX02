@@ -34,7 +34,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 16:</strong> Ícones para parada de ônibus</p>
                     <a href="imagens/figura16.png" data-toggle="lightbox" data-footer="Ícones para parada de ônibus">
-                        <img class="img-fluid" src="imagens/figura16.png" alt="Ícones para parada de ônibus">
+                        <img class="img-fluid wow fadeInUp" src="imagens/figura16.png" alt="Ícones para parada de ônibus">
                     </a>
                     <p class="FonteFigura">Fonte: Google.</p>
                 </div>
@@ -45,7 +45,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 17:</strong> Paradas de ônibus em Fortaleza.</p>
                             <a href="imagens/Figura17.1.png" data-toggle="lightbox" data-footer="Paradas de ônibus em Fortaleza.">
-                                <img class="img-fluid" src="imagens/Figura17.1.png" alt="Paradas de ônibus em Fortaleza.">
+                                <img class="img-fluid wow fadeInLeft" src="imagens/Figura17.1.png" alt="Paradas de ônibus em Fortaleza.">
                             </a>
                             <p class="FonteFigura">Fonte: Diário do Nordeste</p>
                         </div>
@@ -54,7 +54,7 @@ include('layout/header.php');
                         <div class="text-center">
                             <p class="TituloFigura"><strong>Figura 17:</strong>Paradas de ônibus em Fortaleza. </p>
                             <a href="imagens/Figura17.2.png" data-toggle="lightbox" data-footer="Paradas de ônibus em Fortaleza.">
-                                <img class="img-fluid" src="imagens/Figura17.2.png" alt="Paradas de ônibus em Fortaleza.">
+                                <img class="img-fluid wow fadeInRight" src="imagens/Figura17.2.png" alt="Paradas de ônibus em Fortaleza.">
                             </a>
                             <p class="FonteFigura">Fonte: Portal G1
                             </p>
@@ -74,7 +74,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 18:</strong> Ícone da lixeira no Windows</p>
                     <a href="imagens/figura18.png" data-toggle="lightbox" data-footer="Ícone da lixeira no Windows">
-                        <img class="img-fluid" src="imagens/figura18.png" alt="Ícone da lixeira no Windows">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura18.png" alt="Ícone da lixeira no Windows">
                     </a>
                     <p class="FonteFigura">Fonte: autor em Windows.</p>
                 </div>
@@ -87,7 +87,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 19:</strong> Interface do Winamp</p>
                     <a href="imagens/figura19.png" data-toggle="lightbox" data-footer="Interface do Winamp">
-                        <img class="img-fluid" src="imagens/figura19.png" alt="Interface do Winamp" width="650" height="650">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura19.png" alt="Interface do Winamp" width="650" height="650">
                     </a>
                     <p class="FonteFigura">Fonte: Techtudo.</p>
                 </div>
@@ -103,6 +103,7 @@ include('layout/header.php');
                 <p class="Texto">
                     Esta heurística também diz respeito à <strong>ordem</strong> em que os objetos são postos ou ocorrem. Informações devem aparecer em ordem cronológica e natural, de acordo com as convenções do mundo real. Essa regra tem que estar de acordo com a realidade da aplicação. É comum, por exemplo, listas de municípios de um estado estarem em ordem alfabética, porém a capital se apresenta antes de todas as outras cidades por ser a mais utilizada. <strong>Lembre-se: cada interação é única</strong>, nem sempre a ordem esperada é a alfabética.
                 </p>
+                <hr>
 
                 <br><br>
 

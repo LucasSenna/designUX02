@@ -40,7 +40,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 1:</strong> Caixa de óculos 3D</p>
                     <a href="imagens/figura01.png" data-toggle="lightbox" data-footer="Caixa de óculos 3D">
-                        <img class="img-fluid" src="imagens/figura01.png" alt="Caixa de óculos 3D">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura01.png" alt="Caixa de óculos 3D">
                     </a>
                     <p class="FonteFigura">Fonte: autor</p>
                 </div>
@@ -58,7 +58,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 2:</strong> Caixa de óculos 3D</p>
                     <a href="imagens/figura02.png" data-toggle="lightbox" data-footer="Óculos 3D">
-                        <img class="img-fluid" src="imagens/figura02.png" alt="Óculos 3D">
+                        <img class="img-fluid wow fadeInDown" src="imagens/figura02.png" alt="Óculos 3D">
                     </a>
                     <p class="FonteFigura">Fonte: Google</p>
                 </div>

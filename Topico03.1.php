@@ -30,7 +30,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 14:</strong> Botão indicando o andar no elevador</p>
                     <a href="imagens/figura14.png" data-toggle="lightbox" data-footer="Botão indicando o andar no elevador">
-                        <img class="img-fluid" src="imagens/figura14.png" alt="Botão indicando o andar no elevador" width="300" height="200">
+                        <img class="img-fluid wow fadeUp" src="imagens/figura14.png" alt="Botão indicando o andar no elevador" width="300" height="200">
                     </a>
                     <p class="FonteFigura">Fonte: Google.</p>
                 </div>
@@ -57,13 +57,13 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 15:</strong> Exemplos de como dar visibilidade ao estado do sistema</p>
                     <a href="imagens/figura15.1.png" data-toggle="lightbox" data-footer="Exemplos de como dar visibilidade ao estado do sistema">
-                        <img class="img-fluid" src="imagens/figura15.1.png" alt="Exemplos de como dar visibilidade ao estado do sistema">
+                        <img class="img-fluid wow fadeInDown" src="imagens/figura15.1.png" alt="Exemplos de como dar visibilidade ao estado do sistema">
                     </a><br><br>
                     <a href="imagens/figura15.2.png" data-toggle="lightbox" data-footer="Exemplos de como dar visibilidade ao estado do sistema">
-                        <img class="img-fluid" src="imagens/figura15.2.png" alt="Exemplos de como dar visibilidade ao estado do sistema">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura15.2.png" alt="Exemplos de como dar visibilidade ao estado do sistema">
                     </a><br><br><br>
                     <a href="imagens/figura15.3.png" data-toggle="lightbox" data-footer="Exemplos de como dar visibilidade ao estado do sistema">
-                        <img class="img-fluid" src="imagens/figura15.3.png" alt="Exemplos de como dar visibilidade ao estado do sistema">
+                        <img class="img-fluid wow fadeInUp" src="imagens/figura15.3.png" alt="Exemplos de como dar visibilidade ao estado do sistema">
                     </a>
                     <p class="FonteFigura">Fonte: Autor.</p>
                 </div>

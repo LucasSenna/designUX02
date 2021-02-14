@@ -39,7 +39,6 @@ include('layout/header.php');
                     <p class="TituloFigura"><strong>Figura 31:</strong> Exemplo de ajuda contextual no iFood
                     </p>
                     <a href="imagens/figura31.jpg" data-toggle="lightbox" data-footer="Exemplo de ajuda contextual no iFood">
-                        <img class="img-fluid" src="imagens/figura31.jpg" alt="Exemplo de ajuda contextual no iFood">
                     </a>
                     <p class="FonteFigura">Fonte: Ifood.</p>
                 </div>

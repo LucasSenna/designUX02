@@ -45,6 +45,7 @@ Texto negrito
 
 /* NOVOS ESTILOS - BEGIN */
 
+
 /* Titulo */
 .Titulo {
     font-family: var(--FontePadrao);
@@ -74,7 +75,7 @@ Texto negrito
 .Texto {
     font-family: sans-serif(--FontePadrao);
     /* font-size: 1.5 em; */
-    font-size: 1.0em;
+    font-size: 1.2em;
     color: var(--CorPreto);
 } 
 
@@ -83,7 +84,7 @@ Texto negrito
     color: var(--CorImportante);
     text-align: left;
     text-transform: uppercase;
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-weight: bold;
 }
 .ImportanteTitulo::before {
@@ -94,7 +95,7 @@ Texto negrito
 /* Importante Texto */
 .ImportanteTexto {
     font-family: var(--FontePadrao);
-    font-size: 1.2em;
+    font-size: 1.3em;
     color: var(--Cor01);
     padding-left: 2em;
 }
@@ -125,7 +126,7 @@ Texto negrito
     color: var(--CorFiqueAtento);
     text-align: left;
     text-transform: uppercase;
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-weight: bold;
 }
 .FiqueAtentoTitulo::before {
@@ -137,7 +138,7 @@ Texto negrito
 /* Fique Atento Texto */
 .FiqueAtentoTexto {
     font-family: var(--FontePadrao);
-    font-size: 1.2em;
+    font-size: 1.3em;
     color: var(--Cor01);
     padding-left: 2em;
 }
@@ -178,7 +179,7 @@ Texto negrito
     color: var(--CorPreto);
     text-align: left;
     text-transform: uppercase;
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-weight: bold;
 }
 .AtividadeTitulo::before {
@@ -191,7 +192,7 @@ Texto negrito
 /* Atividade Texto */
 .AtividadeTexto {
     font-family: var(--FontePadrao);
-    font-size: 1.2em;
+    font-size: 1.3em;
     color: var(--Cor01);
     padding-left: 2em;
 }

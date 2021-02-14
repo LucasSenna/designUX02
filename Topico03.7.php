@@ -43,7 +43,7 @@ include('layout/header.php');
                     <p class="TituloFigura"><strong>Figura 27:</strong> Atalhos do <em>Microsoft Word</em>
                     </p>
                     <a href="imagens/figura27.png" data-toggle="lightbox" data-footer="Atalhos do <em>Microsoft Word</em>">
-                        <img class="img-fluid" src="imagens/figura27.png" alt="Atalhos do <em>Microsoft Word</em>">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura27.png" alt="Atalhos do <em>Microsoft Word</em>">
                     </a>
                     <p class="FonteFigura">Fonte: Atalhos de teclado do Word - Suporte do Office.</p>
                 </div>

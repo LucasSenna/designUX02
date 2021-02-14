@@ -89,7 +89,9 @@ include('layout/header.php');
 
                 <div class="text-center">
                     <a href="Topico04.2.php" type="button" class="btn btn-outline-success btn-sm">Página anterior</a>
+                    <a href="#" type="button" class="btn btn-outline-success btn-sm">AVALIAÇÃO</a>
                 </div>
+
 
                 <!-- SCRIPT LIGHTBOX -->
                 <script>

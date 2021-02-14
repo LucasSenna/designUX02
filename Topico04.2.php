@@ -39,7 +39,7 @@ include('layout/header.php');
                     <p class="TituloFigura"><strong>Tabela 1:</strong> Severidade de problemas de usabilidade
                     </p>
                     <a href="imagens/tabela1.png" data-toggle="lightbox" data-footer="Severidade de problemas de usabilidade">
-                        <img class="img-fluid" src="imagens/tabela1.png" alt="Severidade de problemas de usabilidade">
+                        <img class="img-fluid wow fadeIn" src="imagens/tabela1.png" alt="Severidade de problemas de usabilidade">
                     </a>
                 </div>
                 <hr>

@@ -41,7 +41,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 10:</strong> Painel de elevador</p>
                     <a href="imagens/figura10.png" data-toggle="lightbox" data-footer="Painel de elevador">
-                        <img class="img-fluid" src="imagens/figura10.png" alt="Painel de elevador" width="400" height="200">
+                        <img class="img-fluid wow fadeInDown" src="imagens/figura10.png" alt="Painel de elevador" width="400" height="200">
                     </a>
                     <p class="FonteFigura">Fonte: autor.</p>
                 </div>
@@ -54,7 +54,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 11:</strong> Mensagem de erro inapropriadar</p>
                     <a href="imagens/figura11.png" data-toggle="lightbox" data-footer="Mensagem de erro inapropriada">
-                        <img class="img-fluid" src="imagens/figura11.png" alt="Mensagem de erro inapropriada" width="260" height="200">
+                        <img class="img-fluid wow fadeIn" src="imagens/figura11.png" alt="Mensagem de erro inapropriada" width="260" height="200">
                     </a>
                     <p class="FonteFigura">Fonte: autor.</p>
                 </div>
@@ -71,7 +71,7 @@ include('layout/header.php');
 
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 12:</strong> Mensagem de ação realizada com sucesso com cor inesperada</p>
-                    <a href="imagens/figura12.png" data-toggle="lightbox" data-footer="Mensagem de erro inapropriada">
+                    <a href="imagens/figura12.png wow fadeIn" data-toggle="lightbox" data-footer="Mensagem de erro inapropriada">
                         <img class="img-fluid" src="imagens/figura12.png" alt="Mensagem de erro inapropriada">
                     </a>
                     <p class="FonteFigura">Fonte: autor.</p>
@@ -94,7 +94,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 13:</strong> O tema de cor do material de base</p>
                     <a href="imagens/figura13.png" data-toggle="lightbox" data-footer="O tema de cor do material de base">
-                        <img class="img-fluid" src="imagens/figura13.png" alt="O tema de cor do material de base" width="600" height="400">
+                        <img class="img-fluid wow fadeInDown" src="imagens/figura13.png" alt="O tema de cor do material de base" width="600" height="400">
                     </a>
                     <p class="FonteFigura">Material Design.</p>
                 </div>

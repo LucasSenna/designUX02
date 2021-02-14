@@ -34,7 +34,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 23:</strong> Exemplos de cadastro indicando possíveis erros</p>
                     <a href="imagens/figura23.png" data-toggle="lightbox" data-footer="Exemplos de cadastro indicando possíveis erros">
-                        <img class="img-fluid" src="imagens/figura23.png" alt="Exemplos de cadastro indicando possíveis erros" width="600" height="600">
+                        <img class="img-fluid wow fadeInUp" src="imagens/figura23.png" alt="Exemplos de cadastro indicando possíveis erros" width="600" height="600">
                     </a>
                     <p class="FonteFigura">Fonte: autor.</p>
                 </div>
@@ -47,7 +47,7 @@ include('layout/header.php');
                 <div class="text-center">
                     <p class="TituloFigura"><strong>Figura 24:</strong> Exemplo de prevenção de erro em buscador web</p>
                     <a href="imagens/figura24.png" data-toggle="lightbox" data-footer="Exemplo de prevenção de erro em buscador web">
-                        <img class="img-fluid" src="imagens/figura24.png" alt="Exemplo de prevenção de erro em buscador web" width="600" height="600">
+                        <img class="img-fluid wow fadeInDown" src="imagens/figura24.png" alt="Exemplo de prevenção de erro em buscador web" width="600" height="600">
                     </a>
                     <p class="FonteFigura">Fonte: Google.</p>
                 </div>
